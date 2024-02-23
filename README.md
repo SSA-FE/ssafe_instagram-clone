@@ -1,4 +1,4 @@
-# SSAFE 2차 MISSION: 인스타그램
+# SSAFE 1차 MISSION: 인스타그램
 
 본격적으로 주니어 첫 과제입니다 !
 
